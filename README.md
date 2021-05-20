@@ -1,5 +1,5 @@
 # asd_prj1
-Dane | HeapSort | QuickSort | BubbleSort 
+     | HeapSort | QuickSort | BubbleSort 
 ---- | -------- | --------- | ----------
 Losowe liczby | 31 usec | 17.5 usec | 28.2 usec
 Posortowane liczby | 33.7 usec | 43.1 usec | 17.8 usec
