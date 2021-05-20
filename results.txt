@@ -1,0 +1,12 @@
+HeapSort
+Random: 100000 loops, best of 3: 31 usec per loop
+Ordered: 100000 loops, best of 3: 33.7 usec per loop
+Backordered: 100000 loops, best of 3: 28.5 usec per loop
+QuickSort
+Random: 100000 loops, best of 3: 17.5 usec per loop
+Ordered: 100000 loops, best of 3: 43.1 usec per loop
+Backordered: 100000 loops, best of 3: 32.8 usec per loop
+BubbleSort
+Random: 100000 loops, best of 3: 28.2 usec per loop
+Ordered: 100000 loops, best of 3: 17.8 usec per loop
+Backordered: 100000 loops, best of 3: 41 usec per loop
