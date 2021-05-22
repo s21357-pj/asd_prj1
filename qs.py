@@ -1,3 +1,7 @@
+import sys
+sys.setrecursionlimit(100000)
+
+
 def partition(arr, a, b):
     s = a
     pivot = arr[b]

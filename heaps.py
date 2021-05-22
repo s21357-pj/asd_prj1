@@ -24,3 +24,4 @@ def heapSort(arr):
     for i in range(len(arr) - 1, 0, -1):
         arr[i], arr[0] = arr[0], arr[i]
         heapify(arr, i, 0)
+    
